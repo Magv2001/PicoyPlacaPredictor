@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # PicoyPlacaPredictor
 Example of an application developed using React to predict when a car can be or not on the road according to the rules of pico y placa.
+There are three inputs: License Plate Number, Date and Time
+
+You can try the application by writing the correct information to get an answer if the car can drive or not on the road.
+
 =======
 # Getting Started with Create React App
 
