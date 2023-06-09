@@ -1,0 +1,63 @@
+.pico-y-placa-predictor {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+body {
+    background: #283048;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color: white;
+    text-align: center;
+    font-size: 4.8rem!important;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.status {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.green {
+    background-color: #00cc00;
+    color: #fff;
+}
+
+.red {
+    background-color: #ff0000;
+    color: #fff;
+}
